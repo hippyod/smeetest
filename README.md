@@ -1,3 +1,3 @@
 # smeetest
 
-TEST 7
+TEST 8
