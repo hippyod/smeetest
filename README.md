@@ -1,3 +1,3 @@
 # smeetest
 
-TEST 25
+TEST 26
